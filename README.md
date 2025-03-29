@@ -9,3 +9,6 @@ This project is a group effort aimed at developing a unique classification model
 - Train the model on the MNIST dataset, a popular dataset consisting of 28x28 grayscale images of handwritten digits (0-9).
 - Analyze the performance of rational function-based classification, including accuracy and computational efficiency.
 - Document findings, challenges, and insights for potential future applications and improvements.
+
+## Gurobi Licensing
+This project utilizes the Gurobi Optimizer, which is a proprietary software and requires a valid license for use. The code provided in this repository was developed using a student license obtained from Gurobi. If you wish to run the code, you will need to obtain your own Gurobi license from the Gurobi website.

@@ -6,6 +6,7 @@ This project is a group effort aimed at developing a unique classification model
 
 ## Project Goals
 - Implement a classification model that uses rational functions for image classification.
+- Optimize using bisection search with linear programming feasibility checks
 - Train the model on the MNIST dataset, a popular dataset consisting of 28x28 grayscale images of handwritten digits (0-9).
 - Analyze the performance of rational function-based classification, including accuracy and computational efficiency.
 - Document findings, challenges, and insights for potential future applications and improvements.
@@ -25,7 +26,15 @@ This work was completed as a **collaborative team project** with three members:
 - **Helen Dawit Weldemichael** (M.Sc. Digital Engineering)  
 - **Ajay Patil** (M.Sc. Digital Engineering)
 
-**Team Approach:** Each member independently developed the rational function classifier using different frameworks (SageMath, SciPy, Gurobi), and the best-performing implementation was selected.
+**Team Approach:** Each member independently developed the rational function classifier using different frameworks (SageMath, SciPy, Gurobi), and the best-performing implementation was selected. This one is the best best performing model (Framework: Gurobi), which gave the highest accuracy.
+
+### Performance 
+Highest accuracy was achieved at the following Configurations:
+- numerator degree 2, denominator degree 1
+- 35 principal components from PCA (variance of 76.12%)
+- Total coefficients: 1404
+- Trained on a small subset of 10,000 images (1000 images per digit) from MNIST dataset of handwritten digits
+- Accuracy: 95.74%
 
 ### Faculty Contribution
 - **Theoretical framework guidance:** Provided by faculty supervision

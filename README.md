@@ -46,4 +46,5 @@ If you use this model or methodology in your work, please cite:
 RClass—Classification by Rational Approximation (2025)
 Developed at Bauhaus-Universität Weimar under supervision of Prof. Dr. Björn Rüffer
 Original team: Omar Ghariani, Helen Dawit Weldemichael, Ajay Patil
+GitHub implementation by: [Ajay Patil](https://github.com/AP-047/rclass)
 ```

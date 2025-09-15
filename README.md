@@ -26,7 +26,7 @@ This work was completed as a **collaborative team project** with three members:
 - **Helen Dawit Weldemichael** (M.Sc. Digital Engineering)  
 - **Ajay Patil** (M.Sc. Digital Engineering)
 
-**Team Approach:** Each member independently developed the rational function classifier using different frameworks (SageMath, SciPy, Gurobi), and the best-performing implementation was selected. This one is the best best performing model (Framework: Gurobi), which gave the highest accuracy.
+**Team Approach:** Each member independently developed the rational function classifier using different frameworks (SageMath, SciPy, Gurobi), and the best-performing implementation was selected. The implementation in this repository — developed by me using Gurobi — achieved the highest accuracy.
 
 ### Performance 
 Highest accuracy was achieved at the following Configurations:
@@ -46,5 +46,4 @@ If you use this model or methodology in your work, please cite:
 RClass—Classification by Rational Approximation (2025)
 Developed at Bauhaus-Universität Weimar under supervision of Prof. Dr. Björn Rüffer
 Original team: Omar Ghariani, Helen Dawit Weldemichael, Ajay Patil
-Kaggle implementation by: [Ajay Patil](https://www.kaggle.com/ajaypatil047)
 ```

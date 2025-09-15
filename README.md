@@ -13,9 +13,7 @@ This project is a group effort aimed at developing a unique classification model
 ## Gurobi Licensing
 This project utilizes the Gurobi Optimizer, which is a proprietary software and requires a valid license for use. The code provided in this repository was developed using a student license obtained from Gurobi. If you wish to run the code, you will need to obtain your own Gurobi license from the Gurobi website.
 
----
 ## Attribution & Credits
-
 ### Academic Project Background
 This rational function classifier was developed as part of a special project (3rd semester) at the **Chair of Applied Mathematics, Faculty of Civil Engineering, Bauhaus-Universität Weimar** under the supervision of:
 - **Prof. Dr. rer. nat. Björn Rüffer** (Project Supervisor)  
@@ -25,7 +23,7 @@ This rational function classifier was developed as part of a special project (3r
 This work was completed as a **collaborative team project** with three members:
 - **Omar Ghariani** (M.Sc. Digital Engineering)  
 - **Helen Dawit Weldemichael** (M.Sc. Digital Engineering)  
-- **Ajay Patil** (M.Sc. Digital Engineering) — *Current Kaggle Model Publisher*
+- **Ajay Patil** (M.Sc. Digital Engineering)
 
 **Team Approach:** Each member independently developed the rational function classifier using different frameworks (SageMath, SciPy, Gurobi), and the best-performing implementation was selected.
 
@@ -33,14 +31,7 @@ This work was completed as a **collaborative team project** with three members:
 - **Theoretical framework guidance:** Provided by faculty supervision
 - **Multi-indices generation algorithm:** Provided by Prof. Dr. Björn Rüffer
 
-### Open-Source Implementation
-This Kaggle model represents the **open-source Python implementation** by Ajay Patil. While the mathematical approach was developed collaboratively.
-
-### Academic Reference
-*Project Report:* “RClass—Classification by Rational Approximation” (March 2025), Bauhaus-Universität Weimar
-
 ### Usage & Citation
-
 If you use this model or methodology in your work, please cite:
 ```plaintext
 RClass—Classification by Rational Approximation (2025)

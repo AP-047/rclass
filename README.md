@@ -16,7 +16,7 @@ This project utilizes the Gurobi Optimizer, which is a proprietary software and 
 
 ## Attribution & Credits
 ### Academic Project Background
-This rational function classifier was developed as part of a special project (3rd semester) at the **Chair of Applied Mathematics, Faculty of Civil Engineering, Bauhaus-Universität Weimar** under the supervision of:
+This rational function classifier was developed as part of a special research project at the **Chair of Applied Mathematics, Faculty of Civil Engineering, Bauhaus-Universität Weimar** under the supervision of:
 - **Prof. Dr. rer. nat. Björn Rüffer** (Project Supervisor)  
 - **Dr. rer. nat. habil. Michael Schönlein** (Project Examiner)
 

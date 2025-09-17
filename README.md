@@ -26,7 +26,7 @@ This work was completed as a **collaborative team project** with three members:
 - **Helen Dawit Weldemichael** (M.Sc. Digital Engineering)  
 - **Ajay Patil** (M.Sc. Digital Engineering)
 
-**Team Approach:** Each member independently developed the rational function classifier using different frameworks (SageMath, SciPy, Gurobi), and the best-performing implementation was selected. The implementation in this repository — developed by me using Gurobi — achieved the highest accuracy.
+**Team Approach:** Each member independently developed the rational function classifier using different frameworks (SageMath, Scikit-learn, Gurobi), and the best-performing implementation was selected. The implementation in this repository — developed by me using Gurobi — achieved the highest accuracy.
 
 #### Performance 
 Highest accuracy was achieved at the following Configurations:
